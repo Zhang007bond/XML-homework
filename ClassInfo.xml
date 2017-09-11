@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Class
+	college="computer science"
+	department="software engineering"
+	classNumber="No.1"
+	classSize="37">
+
+
+<![CDATA[This is the infomation of my class!]]>
+
+
+    <Student
+	id="201503380"
+	name="郭鸿飞"
+	sex="male"
+	score="100"/>
+
+    <Student
+	id="201503381"
+	name="黄家驹"
+	sex="male"
+	score="99"/>
+
+    <Student
+	id="201503382"
+	name="柏涛宇"
+	sex="male"
+	score="98"/>
+
+
+	<Student
+	id="201503383"
+	name="曹雪莲"
+	sex="female"
+	score="10"/>
+
+
+	<Student
+	id="201503384"
+	name="陈烨"
+	sex="female"
+	score="90"/>
+
+
+	<Student
+	id="201503385"
+	name="繁荣"
+	sex="female"
+	score="100000"/>
+
+	<Student
+	id="201503386"
+	name="黄风景"
+	sex="female"
+	score="88"/>
+
+	<Student
+	id="201503387"
+	name="何娇娇"
+	sex="female"
+	score="77"/>
+
+	<Student
+	id="201503388"
+	name="何旭鹏"
+	sex="male"
+	score="19"/>
+
+
+</Class>
+
